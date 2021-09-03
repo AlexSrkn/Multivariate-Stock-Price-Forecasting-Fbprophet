@@ -1,1 +1,1 @@
-# Multivariate-Stock-Market-Forecasting-Fbprophet
+# Multivariate-Stock-Market-Price-Fbprophet
